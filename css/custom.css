@@ -1,0 +1,69 @@
+body {
+    
+    padding-top: 20px;
+}
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+    background-color: #FFFF00;
+    color: #FFC0CB;
+}
+
+.navbar-inverse .brand, .navbar-inverse .nav > li > a:hover {
+    *background-color: #FDB200;
+    color: #f2a900;
+}
+
+.logo {
+    
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.contacts {
+    *border: 1px solid;
+    *border-radius: 4px;
+    *border-color: gray;
+    margin: 5px;
+}
+
+.panel-default > .panel-heading {
+
+	background-color: #FDB200;
+	color:#FFFFFF;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	border-radius: 4px 4px 0px 0px;
+	border-bottom: 1px solid #0074BD;
+}
+.panel-heading h4 {
+	width: 100%;
+	text-transform: uppercase;
+	font-size: 16pt;
+	*font-family: Trebuchet MS, Lucida Grande, Lucida Sans Unicode, Lucida Sans, Tahoma, sans-serif;
+	text-align: center;
+	color: #FFF;
+	line-height: 1.0;
+	font-weight: normal;
+}
+
+.btn-default,
+
+.carousel-caption .btn-primary{
+    background-color: #FDB200;
+    border-color: #FDB200;
+    
+}
+
+.carousel-caption .btn-primary {
+    color:black;
+}
+
+.btn:focus, .btn:active:focus, .btn.active:focus {
+    background-color: #FDB200;
+}
+
+.carousel-caption h1 {
+    color: #FD8200;
+    
+}
+
